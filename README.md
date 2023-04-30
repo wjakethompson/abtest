@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/wjakethompson/abtest/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/wjakethompson/abtest/actions/workflows/R-CMD-check.yaml)
+[![codecov](https://codecov.io/github/wjakethompson/abtest/branch/main/graph/badge.svg?token=3m0XtyRc8T)](https://codecov.io/github/wjakethompson/abtest)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 <!-- badges: end -->
 
 The goal of abtest is to calculate the results of an A/B test with
