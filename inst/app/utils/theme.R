@@ -44,6 +44,7 @@ shinyDashboardThemeDIY <- function(
           .skin-blue .main-header .logo {
           background: ', logoBackColor, ';
           color: ', '#009FB7', ';
+          padding: 0px;
           }
           /* sidebar: logo hover */
           .skin-blue .main-header .logo:hover {
@@ -497,7 +498,7 @@ shinyDashboardThemeDIY <- function(
   )
 }
 
-theme_grey_light <- shinyDashboardThemeDIY(
+theme_wjake_shiny <- shinyDashboardThemeDIY(
 
   ### general
   appFontFamily = "Source Sans Pro"

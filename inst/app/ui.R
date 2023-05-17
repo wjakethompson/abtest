@@ -11,7 +11,7 @@ shinyUI(
       )
     ),
     dashboardBody(
-      theme_grey_light,
+      theme_wjake_shiny,
       tabItems(
         tabItem(
           tabName = "menu_top",
