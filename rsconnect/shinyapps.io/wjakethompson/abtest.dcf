@@ -1,0 +1,11 @@
+name: abtest
+title:
+username:
+account: wjakethompson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9125125
+bundleId: 7227161
+url: https://wjakethompson.shinyapps.io/abtest/
+when: 1684289139.33692
+lastSyncTime: 1684289139.33695
